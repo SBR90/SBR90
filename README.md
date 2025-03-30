@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJuMDBnOHdsOHJ2MTh4dWMwMjNmMm4yempkbXltdnRnMzFuNzJxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
-" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJuMDBnOHdsOHJ2MTh4dWMwMjNmMm4yempkbXltdnRnMzFuNzJxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </div>
 <!--
 # Hi there, I'm SBR90! 👋
