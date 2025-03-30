@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJuMDBnOHdsOHJ2MTh4dWMwMjNmMm4yempkbXltdnRnMzFuNzJxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
+" width="700"/>
+</div>
+<!--
 # Hi there, I'm SBR90! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building innovative solutions. Here's a bit more about me:
@@ -43,3 +48,5 @@ Feel free to check out my repositories and contribute if you find something inte
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.sbr90.com)
 
 Thanks for visiting my profile! Have a great day! 😊
+
+-->
